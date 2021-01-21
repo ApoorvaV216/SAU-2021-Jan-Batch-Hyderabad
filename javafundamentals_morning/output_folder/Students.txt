@@ -1,0 +1,6 @@
+RollNo Marks Subject
+12     85      Maths
+13     60      physics
+15     79      chemistry
+13     85      Maths
+15     60      physics
